@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\1 Lection C\Examples\Ex004_HelloConsole\bin\Debug\net6.0\Ex004_HelloConsole.exe
+C:\Users\Admin\Desktop\1 Lection C\Examples\Ex004_HelloConsole\bin\Debug\net6.0\Ex004_HelloConsole.deps.json
+C:\Users\Admin\Desktop\1 Lection C\Examples\Ex004_HelloConsole\bin\Debug\net6.0\Ex004_HelloConsole.runtimeconfig.json
+C:\Users\Admin\Desktop\1 Lection C\Examples\Ex004_HelloConsole\bin\Debug\net6.0\Ex004_HelloConsole.dll
+C:\Users\Admin\Desktop\1 Lection C\Examples\Ex004_HelloConsole\bin\Debug\net6.0\Ex004_HelloConsole.pdb
+C:\Users\Admin\Desktop\1 Lection C\Examples\Ex004_HelloConsole\obj\Debug\net6.0\Ex004_HelloConsole.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\1 Lection C\Examples\Ex004_HelloConsole\obj\Debug\net6.0\Ex004_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\1 Lection C\Examples\Ex004_HelloConsole\obj\Debug\net6.0\Ex004_HelloConsole.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\1 Lection C\Examples\Ex004_HelloConsole\obj\Debug\net6.0\Ex004_HelloConsole.AssemblyInfo.cs
+C:\Users\Admin\Desktop\1 Lection C\Examples\Ex004_HelloConsole\obj\Debug\net6.0\Ex004_HelloConsole.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\1 Lection C\Examples\Ex004_HelloConsole\obj\Debug\net6.0\Ex004_HelloConsole.dll
+C:\Users\Admin\Desktop\1 Lection C\Examples\Ex004_HelloConsole\obj\Debug\net6.0\refint\Ex004_HelloConsole.dll
+C:\Users\Admin\Desktop\1 Lection C\Examples\Ex004_HelloConsole\obj\Debug\net6.0\Ex004_HelloConsole.pdb
+C:\Users\Admin\Desktop\1 Lection C\Examples\Ex004_HelloConsole\obj\Debug\net6.0\Ex004_HelloConsole.genruntimeconfig.cache
+C:\Users\Admin\Desktop\1 Lection C\Examples\Ex004_HelloConsole\obj\Debug\net6.0\ref\Ex004_HelloConsole.dll
